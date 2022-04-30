@@ -1,4 +1,4 @@
-# Intelligent Networed Vehicle System (INVS)
+# INVS: Intelligent Networed Vehicle System
 
 We are Intelligent Networked Vehicle System Lab from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
 Our long-term goal is to realize trust-worthy interactive autonomous systems.
